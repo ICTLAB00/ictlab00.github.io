@@ -65,11 +65,6 @@ window.PORTFOLIO = {
           "alt": "Framework for generating and evaluating optical illusion-based safety signs."
         },
         {
-          "src": "assets/signs-examples.png",
-          "caption": "Conventional signs and top-rated generated alternatives for three construction hazards.",
-          "alt": "Conventional signs and top-rated generated alternatives for three construction hazards."
-        },
-        {
           "src": "assets/signs-results.png",
           "caption": "Mean perceptual ratings across five safety-sign evaluation dimensions.",
           "alt": "Mean perceptual ratings across five safety-sign evaluation dimensions."
